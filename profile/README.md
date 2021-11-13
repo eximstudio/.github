@@ -1,6 +1,7 @@
+# We make what we learn..!
 <p align="center">
-    <img src="../images/logo.jpg" alt="Image"/>
+    <img src="https://github.com/Exim-Studio/.github/blob/main/images/logo.jpg" alt="Image" width="600"/>
 </p>
 
 
-# We make what we learn..!
+
