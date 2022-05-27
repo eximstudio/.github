@@ -1,0 +1,13 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "Exim-Studio/*": {
+          "permissions": {
+            "*": "write"
+          }
+        }
+      }
+    }
+  }
+}
