@@ -3,9 +3,7 @@
     "codespaces": {
       "repositories": {
         "Exim-Studio/*": {
-          "permissions": {
-            "*": "write"
-          }
+          "permissions": "write-all"
         }
       }
     }
